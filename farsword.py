@@ -65,7 +65,6 @@ def menu():
 
 def stage1():
     global state
-
     while True:
         clock.tick(fps)
         pygame.display.update()
@@ -74,7 +73,6 @@ def stage1():
             if event.type == pygame.QUIT:
                 pygame.quit()
                 sys.exit()
-
 #-----------------------------------------------------VARIABLES---------------------------------------------------------
 
 # Display surface
