@@ -10,5 +10,5 @@ Gameplay instructions:
 3. All other instructions are provided in the tutorial screen
 
 Requirements:
-1. pygame (to install, type: "pip install pygame")
+1. pygame library
 2. run farsword.py
